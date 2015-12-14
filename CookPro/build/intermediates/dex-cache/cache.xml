@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Users\ppokhrel\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.21.0\16a6b3c680f3bf7b81bb42790ff5c1b72c5bbedc\google-api-client-1.21.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="16a6b3c680f3bf7b81bb42790ff5c1b72c5bbedc">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\google-api-client-1.21.0-9049debafabd259c95f406249b5c24351ac800af.jar" />
+    </item>
+    <item
+        jar="D:\Users\ppokhrel\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-bigquery\v2-rev250-1.21.0\9a444fd710fe0aedde173a8ac14aa14c580e1bde\google-api-services-bigquery-v2-rev250-1.21.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9a444fd710fe0aedde173a8ac14aa14c580e1bde">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\google-api-services-bigquery-v2-rev250-1.21.0-0137e6ff9185a49ad3a4f1e50ceb7f8513c163e0.jar" />
+    </item>
+    <item
+        jar="D:\Users\ppokhrel\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-3ef4af1f9a262ba9441b6f3520165718425b26c6.jar" />
+    </item>
+    <item
+        jar="D:\Users\ppokhrel\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.3.2\31fbbff1ddbf98f3aa7377c94d33b0447c646b6e\httpcore-4.3.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\httpcore-4.3.2-307b5e176e8443b91f9a913062ebb648eccb4ce7.jar" />
+    </item>
+    <item
+        jar="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\classes-3e80ae801ad1d22ab1c50726c2d9dddf0209e3a6.jar" />
+    </item>
+    <item
+        jar="D:\Users\ppokhrel\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.21.0\8ce17bdd15fff0fd8cf359757f29e778fc7191ad\google-http-client-jackson2-1.21.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ce17bdd15fff0fd8cf359757f29e778fc7191ad">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.21.0-f7aa21cd9352024e3be953beebc70f1f57b14a96.jar" />
+    </item>
+    <item
+        jar="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-84ae65734064c681dd8933b9ba5187c3b73846a0.jar" />
+    </item>
+    <item
+        jar="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\classes-ab039f72d82e43289a389da517e739d9b38cef95.jar" />
+    </item>
+    <item
+        jar="D:\Users\ppokhrel\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-f01a7bc4e4a4878970ba4fdff2cbadcabf81e01e.jar" />
+    </item>
+    <item
+        jar="D:\Users\ppokhrel\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\guava-jdk5-17.0-2c2d55eed564c9f1a89a62738633e6c9c81d04ef.jar" />
+    </item>
+    <item
+        jar="D:\Users\ppokhrel\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.21.0\61ec42bbfc51aafde5eb8b4923c602c5b5965bc2\google-oauth-client-1.21.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61ec42bbfc51aafde5eb8b4923c602c5b5965bc2">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.21.0-cb1509b3a44b93bb529cd2d5bb6cc7aabf06dd0f.jar" />
+    </item>
+    <item
+        jar="D:\Users\ppokhrel\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-3caf40c1ca8e29a6bb74fdff2c3ef1a0e37fdc1d.jar" />
+    </item>
+    <item
+        jar="D:\Users\ppokhrel\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.21.0\42631630fe1276d4d6d6397bb07d53a4e4fec278\google-http-client-1.21.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42631630fe1276d4d6d6397bb07d53a4e4fec278">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\google-http-client-1.21.0-013f80e375874406d0c354295186aaf0ee498c7f.jar" />
+    </item>
+    <item
+        jar="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\classes-178af712627f4353de331f6578c22f1d4a0611fd.jar" />
+    </item>
+    <item
+        jar="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\classes-ea501c758eee759b2e5532b7fd7ef0ac0fed994b.jar" />
+    </item>
+    <item
+        jar="D:\Users\ppokhrel\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Users\ppokhrel\Downloads\CookPro\CookPro\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-971ad9f4fd2abb278f6bb0d4549dbf41ec44003d.jar" />
+    </item>
+
+</items>
